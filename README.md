@@ -9,7 +9,7 @@ examples:</br>
 i first encountered this effect via twitter user <a href="http://twitter.com/taki_bump">@taki_bump</a></br>
 ex:</br>
 <a href="https://twitter.com/taki_bump/status/376313959969599488/photo/1" target="_new"><img title="taki_bump example" src="https://pbs.twimg.com/media/BTjvjYRCMAAXOYV.png:small" width="250"> </a></br>
-i only managed to replicate the effect after much coffee, trial and error with photoshop layers/ imagemagick options...</br>
+i only managed to replicate the effect through trial and error with photoshop layers/ imagemagick options and much coffee...</br>
 
 <b>Operation:</b> </br>
 <ul>

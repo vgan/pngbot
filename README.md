@@ -9,7 +9,7 @@ examples:</br>
 i first encountered this effect via twitter user <a href="http://twitter.com/taki_bump">@taki_bump</a></br>
 ex:</br>
 <a href="https://twitter.com/taki_bump/status/376313959969599488/photo/1" target="_new"><img title="taki_bump example" src="https://pbs.twimg.com/media/BTjvjYRCMAAXOYV.png:small" width="250"> </a></br>
-i only managed to replicate the effect through trial and error with photoshop layers/ imagemagick options and much coffee...</br>
+i only managed to replicate the effect through trial and error with photoshop layers/ imagemagick options and much, much coffee...</br>
 
 <b>Operation:</b> </br>
 <ul>
@@ -29,7 +29,7 @@ i only managed to replicate the effect through trial and error with photoshop la
 
 <b>Scheduling via Cron:</b> </br>
 (example is for every 5 minutes)
-        `*/5 * * * * your-username python /path-to-your-script/pngbot.py >> /path-to-your-script/pngbot.log 2>&1` </br>
+        `*/5 * * * * your-username python /path-to-your-script/pngbot.py >> /path-to-your-script/pngbot.log 2>&1` </br></br>
 <b> To Do:</b>
 <ul>
 	<li> get conversion and composite commands working with wand or some other imagemagick python wrapper so I don't need to use a shell script.  :)</li>

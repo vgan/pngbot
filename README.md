@@ -28,7 +28,7 @@ i only managed to replicate the effect through trial and error with photoshop la
 </br>
 
 <b>Scheduling via Cron:</b> </br>
-(example is for every 5 minutes)
+(example is for every 5 minutes)</br>
         `*/5 * * * * your-username python /path-to-your-script/pngbot.py >> /path-to-your-script/pngbot.log 2>&1` </br></br>
 <b> To Do:</b>
 <ul>

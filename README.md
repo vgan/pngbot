@@ -1,6 +1,6 @@
 pngbot
 ========
-pngbot is a bot designed to combine two png images in one so that they appear as each of the original images in certain situations.  This is possible due to the fact that image viewers usually change the background color between white (or some shade of white) for thumbnail to black in fullsize view states. I've observed that it works on twitter, tumblr, and also on iPhones!</br>
+pngbot is a bot designed to combine two png images in one so that it appears as the 1st image in preview and the 2nd in  fullsize view.  This is possible due to the fact that image viewers usually change the background color between white (or some shade of white) for thumbnail to black in fullsize view states. I've observed that it works on twitter, tumblr, and also on iPhones!</br>
 examples:</br>
 <ul>
    <li>http://twitter.com/pngbot</li>

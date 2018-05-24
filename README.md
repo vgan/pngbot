@@ -6,9 +6,9 @@ examples:</br>
    <li>http://twitter.com/pngbot</li>
    <li>http://pngbot.tumblr.com</li>
 </ul>
-I first encountered this effect via twitter user <a href="http://twitter.com/taki_bump">@taki_bump</a></br>
+I first encountered this effect via twitter user @taki_bump, but as of 2018, the account seems to have been deleted or renamed?</br>
 ex:</br>
-<a href="https://twitter.com/taki_bump/status/376313959969599488/photo/1" target="_new"><img title="taki_bump example" src="https://pbs.twimg.com/media/BTjvjYRCMAAXOYV.png:small" width="250"> </a></br>
+<a href="https://stevecvar.com/wp-content/uploads/2018/05/b2mymo2efbnpkfqvcrib.png" target="_new"><img title="taki_bump example" src="https://stevecvar.com/wp-content/uploads/2018/05/b2mymo2efbnpkfqvcrib.png" width="250">  Click to view alternate Image</a></br>
 
 <b>Operation:</b> </br>
 <ul>
@@ -20,7 +20,7 @@ ex:</br>
 <b>APIs/ Prerequisites:</b> </br>
 <ul>
 	<li>Twitter (tweepy) https://github.com/tweepy/tweepy</li>
-	<li>Tumblr (pytumblr) https://github.com/tumblr/pytumblr (if you're posting to Tumblr)</li> 
+	<li>Tumblr (pytumblr) https://github.com/tumblr/pytumblr</li> 
 	<li>Python - Tested with version: 2.7.5</li>
 	<li>ImageMagick - Tested with version: 6.7.8.9-10</li>
 </ul>
